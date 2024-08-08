@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at <a href="https://mrpasiya.pages.dev/Pasidu09-SL"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://lahirudilshan2.github.io/"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
 
 - 📫 How to reach me **yapalahiru9@gmail.com**
 
